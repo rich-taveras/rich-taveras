@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rich-taveras
 - 👀 I’m interested in coding and looking to grow as a full stack developer
-- 🌱 I’m currently learning basic stuff and continuing learning everyday to reach my goal.
+- 🌱 I’m currently junior web developer level. Looking for an oportunity.
 - 💞️ I’m looking to collaborate on any project as a beginner
 - 📫 How to reach me: via email taverasr@gmail.com
 
