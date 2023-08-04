@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @rich-taveras
-- 👀 I’m interested in coding and looking to grow as a full stack developer
-- 🌱 I’m currently junior web developer level. Looking for an oportunity.
-- 💞️ I’m looking to collaborate on any project as a beginner
-- 📫 How to reach me: via email taverasr@gmail.com
+👋 Hello there, I'm @rich-taveras!
+
+👀 My passion lies in coding, and I'm on a journey to become a proficient full stack developer.
+
+🌱 Currently, I am at a junior web developer level, eager to learn and expand my skills. I'm actively seeking opportunities to further my career in the field.
+
+💞️ I'm enthusiastic about collaborating on exciting projects, especially ones that cater to beginners like myself. I believe in the power of teamwork and the opportunity to learn and grow together.
+
+📫 You can reach out to me via email at taverasr@gmail.com. I'm open to connecting with fellow developers, potential mentors, or anyone interested in coding and web development.
+
+Looking forward to the adventure ahead! Let's code and create something awesome together! 😊
 
 <!---
 rich-taveras/rich-taveras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
