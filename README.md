@@ -1,8 +1,8 @@
 👋 Hello there, I'm @rich-taveras!
 
-👀 My passion lies in coding, and I'm on a journey to become a proficient full stack developer.
+👀 My passion love in coding, and I'm on a journey to become a proficient full stack developer.
 
-🌱 Currently, I am at a junior web developer level, eager to learn and expand my skills. I'm actively seeking opportunities to further my career in the field.
+🌱 Currently, I am at a junior developer level, eager to learn and expand my skills. I'm actively seeking opportunities to further my career in the field.
 
 💞️ I'm enthusiastic about collaborating on exciting projects, especially ones that cater to beginners like myself. I believe in the power of teamwork and the opportunity to learn and grow together.
 
