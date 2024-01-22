@@ -1,16 +1,37 @@
-👋 Hello there, I'm @rich-taveras!
 
-👀 My passion love in coding, and I'm on a journey to become a proficient full stack developer.
+# Hello, I'm Rich! 👋
 
-🌱 Currently, I am at a junior developer level, eager to learn and expand my skills. I'm actively seeking opportunities to further my career in the field.
+## About Me
 
-💞️ I'm enthusiastic about collaborating on exciting projects, especially ones that cater to beginners like myself. I believe in the power of teamwork and the opportunity to learn and grow together.
+Welcome to my corner on GitHub! I'm a passionate junior developer with a constant love for learning and growing in the world of software development.
 
-📫 You can reach out to me via email at taverasr@gmail.com. I'm open to connecting with fellow developers, potential mentors, or anyone interested in coding and web development.
+## 💻 Technologies
 
-Looking forward to the adventure ahead! Let's code and create something awesome together! 😊
+- Programming Languages: JavaScript, HTML, CSS
+- Frameworks: React.js
+- Databases: MongoDB
+- Development Tools: Git, VSCode
 
-<!---
-rich-taveras/rich-taveras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 Currently Learning
+
+I'm focused on improving my skills in:
+
+- Full Stack Development
+- Unit and Integration Testing
+- Best Coding Practices
+
+## 🚀 My Projects
+
+Here are some of my highlighted projects:
+
+1. [Portfolio] http://www.findingrich.com - Brief description.
+2. [Project Name 2](Link to Project 2) - Brief description.
+
+## 📫 Connect With Me
+
+I would love to connect with you! Find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/richard-taveras-988842174/)
+- [Twitter](Twitter Profile)
+
+Thanks for visiting my profile! I hope you find what I do interesting. 😊
