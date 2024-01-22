@@ -25,13 +25,13 @@ I'm focused on improving my skills in:
 Here are some of my highlighted projects:
 
 1. [Portfolio](http://www.findingrich.com)
-2. [Project Name 2](Link to Project 2) - Brief description.
+2. [Clean Pools Florida](http://www.cleanpoolsflorida.com)
 
 ## 📫 Connect With Me
 
 I would love to connect with you! Find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/richard-taveras-988842174/)
-- [Twitter](Twitter Profile)
+- [Twitter](http://twitter.com/taverasr)
 
 Thanks for visiting my profile! I hope you find what I do interesting. 😊
