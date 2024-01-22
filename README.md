@@ -24,7 +24,7 @@ I'm focused on improving my skills in:
 
 Here are some of my highlighted projects:
 
-1. [Portfolio] http://www.findingrich.com - Brief description.
+1. [Portfolio](http://www.findingrich.com)
 2. [Project Name 2](Link to Project 2) - Brief description.
 
 ## 📫 Connect With Me
