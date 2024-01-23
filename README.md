@@ -26,7 +26,7 @@ Here are some of my highlighted projects:
 
 1. [Portfolio](http://www.findingrich.com)
 2. [Clean Pools Florida](http://www.cleanpoolsflorida.com)
-3. [AquaCare Maintenance App](https://rich-taveras.github.io/cleanpoolsapp)
+3. [Clean Pools Maintenance App](https://rich-taveras.github.io/cleanpoolsapp)
 
 ## 📫 Connect With Me
 
