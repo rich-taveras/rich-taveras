@@ -8,8 +8,8 @@ Welcome to my corner on GitHub! I'm a passionate junior developer with a constan
 ## 💻 Technologies
 
 - Programming Languages: JavaScript, HTML, CSS
-- Frameworks: React.js
-- Databases: MongoDB
+- Frameworks: React.js, Bootstrap, Nextjs, Nodejs, Expressjs
+- Databases: MongoDB, MySQL
 - Development Tools: Git, VSCode
 
 ## 🌱 Currently Learning
