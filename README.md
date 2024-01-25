@@ -35,5 +35,6 @@ I would love to connect with you! Find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/richard-taveras-988842174/)
 - [Twitter](http://twitter.com/taverasr)
+- email: taverasr@gmail.com
 
 Thanks for visiting my profile! I hope you find what I do interesting. 😊
