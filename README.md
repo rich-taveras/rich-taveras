@@ -26,10 +26,11 @@ Here are some of my highlighted projects:
 
 1. [Portfolio](http://www.findingrich.com)
 2. [Clean Pools Florida](http://www.cleanpoolsflorida.com)
-3. [Clean Pools Maintenance App](https://rich-taveras.github.io/cleanpoolsapp)
-4. [AquaCare App](https://aqua-care-app.vercel.app/)
-5. [Cafe Cultiva](https://cafe-cultiva.vercel.app/)
-6. [Smart Gadgets](https://smart-gadgets.vercel.app/)
+3. [Dragon Pools](https://www.dragonpoolsusa.com)
+4. [Clean Pools Maintenance App](https://rich-taveras.github.io/cleanpoolsapp)
+5. [AquaCare App](https://aqua-care-app.vercel.app/)
+6. [Cafe Cultiva](https://cafe-cultiva.vercel.app/)
+7. [Smart Gadgets](https://smart-gadgets.vercel.app/)
 
 
 ## 📫 Connect With Me
