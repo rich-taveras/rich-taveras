@@ -3,7 +3,7 @@
 
 ## About Me
 
-Welcome to my corner on GitHub! I'm a passionate junior developer with a constant love for learning and growing in the world of software development.
+Welcome to my corner on GitHub! I'm a passionate junior developer with a constant love for learning and growing in the world of software development. Looking to continue this amazing journey.
 
 ## 💻 Technologies
 
