@@ -32,8 +32,6 @@ Here are some of my highlighted projects:
 6. [AquaCare App](https://aqua-care-app.vercel.app/)
 7. [Cafe Cultiva](https://cafe-cultiva.vercel.app/)
 8. [Smart Gadgets](https://smart-gadgets.vercel.app/)
-9. [Smart Gadgets](https://smart-gadgets.vercel.app/)
-10. [Smart Gadgets](https://smart-gadgets.vercel.app/)
 
 
 ## 📫 Connect With Me
