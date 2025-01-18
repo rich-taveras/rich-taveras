@@ -23,10 +23,10 @@ I'm focused on improving my skills in:
 
 Here are some of my highlighted projects:
 
-1. [Portfolio](http://www.findingrich.com)
+1. [Portfolio](https://cmngsn.com/for/under-construction)
 2. [Clean Pools Florida](https://clean-pools-florida.vercel.app/)
 3. [3D Solar System](https://3-d-solar-system-virid.vercel.app)
-4. [Dragon Pools](https://www.dragonpoolsusa.com)
+4. [Dragon Pools](https://dragonpools.vercel.app/)
 5. [Clean Pools Maintenance App](https://rich-taveras.github.io/cleanpoolsapp)
 6. [AquaCare App](https://aqua-care-app.vercel.app/)
 7. [Cafe Cultiva](https://cafe-cultiva.vercel.app/)
