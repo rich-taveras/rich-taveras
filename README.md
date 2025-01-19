@@ -23,7 +23,7 @@ I'm focused on improving my skills in:
 
 Here are some of my highlighted projects:
 
-1. [Portfolio](my-portfolio-phi-beige-26.vercel.app)
+1. [Portfolio](https://my-portfolio-phi-beige-26.vercel.app/)
 2. [Clean Pools Florida](https://clean-pools-florida.vercel.app/)
 3. [3D Solar System](https://3-d-solar-system-virid.vercel.app)
 4. [Dragon Pools](https://dragonpools.vercel.app/)
